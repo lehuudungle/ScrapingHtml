@@ -1,0 +1,6 @@
+framework module Pods_CrapingHtmlTests {
+  umbrella header "Pods-CrapingHtmlTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
